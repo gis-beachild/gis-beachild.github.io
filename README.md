@@ -10,7 +10,7 @@ This website brings together the software developments carried out as part of th
 > Mercier, C., Faisan, S., Pron, A., Girard, N., Auzias, G., Chonavel, T., & Rousseau, F. (2025). *Intersection-based slice motion estimation for fetal brain imaging*. To be published in Computers in Biology and Medicine. \
 > [[code]](https://github.com/gis-beachild/pyrecon)
 
-# GAIT ANALYSIS
+# Gait Analysis
 
 > **Gait kinematics** analysis in childhood developed by [Zhengyang Lan](https://github.com/LANZhengyang). \
 > Lan, Z., Lempereur, M., Gueret, G., Houx, L., Cacioppo, M., Pons, C., ... & Brochard, S. (2024). *Towards a diagnostic tool for neurological gait disorders in childhood combining 3D gait kinematics and deep learning*. Computers in Biology and Medicine, 171, 108095. \
