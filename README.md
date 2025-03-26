@@ -10,6 +10,13 @@ This website brings together the software developments carried out as part of th
 > Mercier, C., Faisan, S., Pron, A., Girard, N., Auzias, G., Chonavel, T., & Rousseau, F. (2025). *Intersection-based slice motion estimation for fetal brain imaging*. To be published in Computers in Biology and Medicine. \
 > [[code]](https://github.com/gis-beachild/pyrecon)
 
+# EEG
+
+> **Electrical source imaging** done as part of [Sarah Reynaud](https://github.com/SarahReynaud)'s PhD thesis. \
+> Reynaud, S., Merlini, A., Ben Salem, D., & Rousseau, F. (2024). *Comprehensive analysis of supervised learning methods for electrical source imaging*. Frontiers in Neuroscience, 18, 1444935. \
+> [[code]](https://github.com/gis-beachild/stESI_pub)
+
+
 # Gait Analysis
 
 > **Gait kinematics** analysis in childhood done as part of [Zhengyang Lan](https://github.com/LANZhengyang)'s PhD thesis. \
