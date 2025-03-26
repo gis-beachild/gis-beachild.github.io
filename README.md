@@ -13,14 +13,14 @@ This website brings together the software developments carried out as part of th
 # EEG
 
 > **Electrical source imaging** done as part of [Sarah Reynaud](https://www.linkedin.com/in/sarah-reynaud-08b1082b2)'s PhD thesis. \
-> Reynaud, S., Merlini, A., Ben Salem, D., & Rousseau, F. (2024). *Comprehensive analysis of supervised learning methods for electrical source imaging*. Frontiers in Neuroscience, 18, 1444935. \
+> Reynaud, S., Merlini, A., Ben Salem, D., & Rousseau, F. (2024). *Comprehensive analysis of supervised learning methods for electrical source imaging*. [Frontiers in Neuroscience](https://doi.org/10.3389/fnins.2024.1444935), 18, 1444935. \
 > [[code]](https://github.com/gis-beachild/stESI_pub)
 
 
 # Gait Analysis
 
 > **Gait kinematics** analysis in childhood done as part of [Zhengyang Lan](https://www.linkedin.com/in/lan-zhengyang-8559b9158)'s PhD thesis. \
-> Lan, Z., Lempereur, M., Gueret, G., Houx, L., Cacioppo, M., Pons, C., ... & Brochard, S. (2024). *Towards a diagnostic tool for neurological gait disorders in childhood combining 3D gait kinematics and deep learning*. Computers in Biology and Medicine, 171, 108095. \
+> Lan, Z., Lempereur, M., Gueret, G., Houx, L., Cacioppo, M., Pons, C., ... & Brochard, S. (2024). *Towards a diagnostic tool for neurological gait disorders in childhood combining 3D gait kinematics and deep learning*. [Computers in Biology and Medicine](https://doi.org/10.1016/j.compbiomed.2024.108095), 171, 108095. \
 > [[code]](https://github.com/gis-beachild/Gait_DeepLearning_Diagnostic_Tool)
 
 
